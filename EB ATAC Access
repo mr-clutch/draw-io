@@ -70,8 +70,8 @@
             <mxPoint x="185" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OP96-_6kLm2nSxazUkIG-15" value="&lt;b&gt;Remote Ribbon Access:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SSH TCP22&lt;/div&gt;&lt;div&gt;HTTPS 443&lt;/div&gt;&lt;div&gt;ICMP&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NAT VPN Pool &amp;gt; 203.202.141.161&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NAT VPN Pool &amp;gt; 203.202.141.61&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="140" height="160" as="geometry" />
+        <mxCell id="OP96-_6kLm2nSxazUkIG-15" value="&lt;b&gt;Remote Ribbon Access:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BMC&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;TCP 22&lt;/div&gt;&lt;div&gt;TCP 443&lt;/div&gt;&lt;div&gt;TCP 5120&lt;/div&gt;&lt;div&gt;TCP 7578&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MGT&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;TCP 22&lt;/div&gt;&lt;div&gt;TCP 2024&lt;/div&gt;&lt;div&gt;TCP 443&lt;/div&gt;&lt;div&gt;TCP 444&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="667" y="70" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OP96-_6kLm2nSxazUkIG-17" value="m-sig-nsw-sy3services-r01" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="800" width="70" height="50" as="geometry" />
@@ -132,6 +132,9 @@
             <mxPoint x="458" y="540" as="sourcePoint" />
             <mxPoint x="530" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OP96-_6kLm2nSxazUkIG-39" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;NAT VPN Pool &amp;gt; 203.202.141.161&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;NAT VPN Pool &amp;gt; 203.202.141.61&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="50" width="185" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
