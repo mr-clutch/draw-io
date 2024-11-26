@@ -70,8 +70,8 @@
             <mxPoint x="185" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OP96-_6kLm2nSxazUkIG-15" value="Remote Ribbon Access:&lt;div&gt;SSH TCP22&lt;/div&gt;&lt;div&gt;HTTPS 443&lt;/div&gt;&lt;div&gt;ICMP&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.1.54.0/24&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="130" height="130" as="geometry" />
+        <mxCell id="OP96-_6kLm2nSxazUkIG-15" value="&lt;b&gt;Remote Ribbon Access:&lt;/b&gt;&lt;div&gt;SSH TCP22&lt;/div&gt;&lt;div&gt;HTTPS 443&lt;/div&gt;&lt;div&gt;ICMP&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.1.54.0/24&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OP96-_6kLm2nSxazUkIG-17" value="&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="800" width="70" height="50" as="geometry" />
