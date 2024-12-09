@@ -97,7 +97,7 @@
           <mxGeometry x="581" y="300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6Nlhj0dFVYCVf8Xmznz-64" value="- 100.64.76.x IP&#39;s are 1:1 NAT&#39;s applied on vpn-r0x routers to masquerade LZ IP&#39;s as seen by ATAC&amp;nbsp;&lt;div&gt;- LZ &amp;gt; ATAC connectivity documented in&amp;nbsp;OBCHG2036729&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="360" height="100" as="geometry" />
+          <mxGeometry x="210" y="160" width="360" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
